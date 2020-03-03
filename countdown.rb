@@ -24,3 +24,5 @@ def countdown_with_sleep(int)
   
   return "HAPPY NEW YEAR!"
 end
+
+countdown_with_sleep(12)
